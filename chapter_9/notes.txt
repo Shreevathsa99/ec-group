@@ -1,0 +1,7 @@
+-> I noticed while coding an example of pointer concept that nothing is printing while trying to print address of a character. (ref. "printAdd.cpp"), but it "works for other data types".
+
+->"/tmp/ccRBZ5fn.o: In function `main':
+   9_17.cpp:(.text+0x146): undefined reference to `exchangePP(int*, int*)'
+   collect2: error: ld returned 1 exit status"
+
+        This error will happen when function not defined correctly.
