@@ -1,3 +1,5 @@
+/*Program to exchange by three ways
+*/
 #include<iostream>
 using namespace std;
 
