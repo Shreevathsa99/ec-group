@@ -1,4 +1,4 @@
-/* This program shows how the same pointer can point to different data variables in different statements.
+/* This program shows how the different pointers can point to same data variable.
 	Written by: Shreevathsa.
 	Date: 04-05-2019.
 */
