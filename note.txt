@@ -1,1 +1,0 @@
--> I noticed while coding an example of pointer concept that nothing is printing while trying to print address of a character. (ref. "printAdd.cpp"), but it "works for other data types".
